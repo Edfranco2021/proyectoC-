@@ -50,6 +50,7 @@
             this.btoTopo1.TabIndex = 0;
             this.btoTopo1.Text = "Topo";
             this.btoTopo1.UseVisualStyleBackColor = true;
+            this.btoTopo1.Click += new System.EventHandler(this.btoTopo1_Click);
             // 
             // btoTopo2
             // 
@@ -59,6 +60,7 @@
             this.btoTopo2.TabIndex = 1;
             this.btoTopo2.Text = "Topo";
             this.btoTopo2.UseVisualStyleBackColor = true;
+            this.btoTopo2.Click += new System.EventHandler(this.btoTopo2_Click);
             // 
             // btoTopo3
             // 
@@ -68,6 +70,7 @@
             this.btoTopo3.TabIndex = 2;
             this.btoTopo3.Text = "Topo";
             this.btoTopo3.UseVisualStyleBackColor = true;
+            this.btoTopo3.Click += new System.EventHandler(this.btoTopo3_Click);
             // 
             // btoTopo4
             // 
@@ -77,6 +80,7 @@
             this.btoTopo4.TabIndex = 3;
             this.btoTopo4.Text = "Topo";
             this.btoTopo4.UseVisualStyleBackColor = true;
+            this.btoTopo4.Click += new System.EventHandler(this.btoTopo4_Click);
             // 
             // btoTopo5
             // 
@@ -86,6 +90,7 @@
             this.btoTopo5.TabIndex = 7;
             this.btoTopo5.Text = "Topo";
             this.btoTopo5.UseVisualStyleBackColor = true;
+            this.btoTopo5.Click += new System.EventHandler(this.btoTopo5_Click);
             // 
             // btoTopo6
             // 
@@ -95,6 +100,7 @@
             this.btoTopo6.TabIndex = 6;
             this.btoTopo6.Text = "Topo";
             this.btoTopo6.UseVisualStyleBackColor = true;
+            this.btoTopo6.Click += new System.EventHandler(this.btoTopo6_Click);
             // 
             // btoTopo7
             // 
@@ -104,6 +110,7 @@
             this.btoTopo7.TabIndex = 5;
             this.btoTopo7.Text = "Topo";
             this.btoTopo7.UseVisualStyleBackColor = true;
+            this.btoTopo7.Click += new System.EventHandler(this.btoTopo7_Click);
             // 
             // btoTopo8
             // 
@@ -113,6 +120,7 @@
             this.btoTopo8.TabIndex = 4;
             this.btoTopo8.Text = "Topo";
             this.btoTopo8.UseVisualStyleBackColor = true;
+            this.btoTopo8.Click += new System.EventHandler(this.btoTopo8_Click);
             // 
             // button9
             // 

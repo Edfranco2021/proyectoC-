@@ -9,3 +9,14 @@ F:\info a leer\c# curso\proyecto\golpeaTopo\golpeaTopo\obj\Debug\golpeaTopo.cspr
 F:\info a leer\c# curso\proyecto\golpeaTopo\golpeaTopo\obj\Debug\golpeaTopo.csproj.CoreCompileInputs.cache
 F:\info a leer\c# curso\proyecto\golpeaTopo\golpeaTopo\obj\Debug\golpeaTopo.exe
 F:\info a leer\c# curso\proyecto\golpeaTopo\golpeaTopo\obj\Debug\golpeaTopo.pdb
+F:\info a leer\c# curso\proyecto\respaldo\golpeaTopo\golpeaTopo\bin\Debug\golpeaTopo.exe.config
+F:\info a leer\c# curso\proyecto\respaldo\golpeaTopo\golpeaTopo\bin\Debug\golpeaTopo.exe
+F:\info a leer\c# curso\proyecto\respaldo\golpeaTopo\golpeaTopo\bin\Debug\golpeaTopo.pdb
+F:\info a leer\c# curso\proyecto\respaldo\golpeaTopo\golpeaTopo\obj\Debug\golpeaTopo.csproj.AssemblyReference.cache
+F:\info a leer\c# curso\proyecto\respaldo\golpeaTopo\golpeaTopo\obj\Debug\golpeaTopo.csproj.SuggestedBindingRedirects.cache
+F:\info a leer\c# curso\proyecto\respaldo\golpeaTopo\golpeaTopo\obj\Debug\golpeaTopo.Form1.resources
+F:\info a leer\c# curso\proyecto\respaldo\golpeaTopo\golpeaTopo\obj\Debug\golpeaTopo.Properties.Resources.resources
+F:\info a leer\c# curso\proyecto\respaldo\golpeaTopo\golpeaTopo\obj\Debug\golpeaTopo.csproj.GenerateResource.cache
+F:\info a leer\c# curso\proyecto\respaldo\golpeaTopo\golpeaTopo\obj\Debug\golpeaTopo.csproj.CoreCompileInputs.cache
+F:\info a leer\c# curso\proyecto\respaldo\golpeaTopo\golpeaTopo\obj\Debug\golpeaTopo.exe
+F:\info a leer\c# curso\proyecto\respaldo\golpeaTopo\golpeaTopo\obj\Debug\golpeaTopo.pdb

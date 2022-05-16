@@ -19,15 +19,20 @@ namespace golpeaTopo
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            label2.Text = "";
+            label2.Text = "0";
+            
         }
 
         private void button9_Click(object sender, EventArgs e)
         {
-            int result;
-            for (int i = 0; i < 10; i++)
+            
+
+            for (int i = 1; i <= 10; i++)
             {
-                TimeSpan
+                int result = 0;
+                //this.label2.Text = i.ToString();
+                //this.label2.Refresh();
+                //System.Threading.Thread.Sleep(i * 5);
 
                 Random rnd = new Random();
                 result = rnd.Next(1, 8);
@@ -113,11 +118,97 @@ namespace golpeaTopo
                         btoTopo7.BackColor = Color.White;
                         btoTopo8.BackColor = Color.Yellow;
                         break;
-
-
+                                            
                 }
+                
             }
+
+
+
             
+
+        }
+
+        private void btoTopo1_Click(object sender, EventArgs e)
+        {
+            double a = Convert.ToDouble(label2.Text);
+            if (a < 10 )
+            {
+                a++;
+            }
+            label2.Text = a.ToString();
+        }
+
+        private void btoTopo2_Click(object sender, EventArgs e)
+        {
+            double a = Convert.ToDouble(label2.Text);
+            if (a < 10)
+            {
+                a++;
+            }
+            label2.Text = a.ToString();
+        }
+
+        private void btoTopo3_Click(object sender, EventArgs e)
+        {
+            double a = Convert.ToDouble(label2.Text);
+            if (a < 10)
+            {
+                a++;
+            }
+            label2.Text = a.ToString();
+        }
+
+        private void btoTopo4_Click(object sender, EventArgs e)
+        {
+            double a = Convert.ToDouble(label2.Text);
+            if (a < 10)
+            {
+                a++;
+            }
+            label2.Text = a.ToString();
+        }
+
+        private void btoTopo8_Click(object sender, EventArgs e)
+        {
+            double a = Convert.ToDouble(label2.Text);
+            if (a < 10)
+            {
+                a++;
+            }
+            label2.Text = a.ToString();
+        }
+
+        private void btoTopo7_Click(object sender, EventArgs e)
+        {
+            double a = Convert.ToDouble(label2.Text);
+            if (a < 10)
+            {
+                a++;
+            }
+            label2.Text = a.ToString();
+        }
+
+        private void btoTopo6_Click(object sender, EventArgs e)
+        {
+            double a = Convert.ToDouble(label2.Text);
+            if (a < 10)
+            {
+                a++;
+            }
+            label2.Text = a.ToString();
+        }
+
+        private void btoTopo5_Click(object sender, EventArgs e)
+        {
+            double a = Convert.ToDouble(label2.Text);
+            if (a < 10)
+            {
+                a++;
+            }
+                label2.Text = a.ToString();
+            
+
         }
     }
 }
