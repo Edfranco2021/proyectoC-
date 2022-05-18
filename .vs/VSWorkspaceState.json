@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\calculadora 1",
+    "\\calculadora 1\\calculadora 1",
+    "\\golpeaTopo",
+    "\\golpeaTopo\\golpeaTopo"
+  ],
+  "SelectedNode": "\\golpeaTopo\\golpeaTopo\\Form1.cs",
+  "PreviewInSolutionExplorer": false
+}

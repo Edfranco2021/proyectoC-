@@ -25,13 +25,14 @@ namespace golpeaTopo
 
         private void button9_Click(object sender, EventArgs e)
         {
+            int result = 0;
             
 
-            for (int i = 1; i <= 10; i++)
+            for (int i = 0; i < 10; i++)
             {
-                int result = 0;
-                //this.label2.Text = i.ToString();
-                //this.label2.Refresh();
+                              
+                this.label2.Text = i.ToString();
+                this.label2.Refresh();
                 //System.Threading.Thread.Sleep(i * 5);
 
                 Random rnd = new Random();
@@ -120,6 +121,8 @@ namespace golpeaTopo
                         break;
                                             
                 }
+               
+                System.Threading.Thread.Sleep(i * 5);
                 
             }
 
